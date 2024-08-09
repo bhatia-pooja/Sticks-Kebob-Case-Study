@@ -1,0 +1,58 @@
+### **Hierarchical Clustering of Non-Customers**
+
+#### **Overview**
+Hierarchical clustering was performed on the responses of non-customers to a specific question (Q16) in the survey to uncover distinct behavioral profiles. The purpose of this analysis was to better understand the preferences, attitudes, and behaviors of individuals who have not yet visited Sticks Kebob Shop. By understanding these non-customer clusters, targeted marketing strategies can be developed to convert them into regular customers.
+
+#### **Q16 Survey Question**
+The non-customers were asked to indicate their best answers to the following statements:
+- **Q16.a**: "I tend to plan things very carefully."
+- **Q16.b**: "I sometimes have trouble controlling my spending."
+- **Q16.c**: "I think it is important to purchase products that are made locally."
+- **Q16.d**: "I carefully consider the health benefits of what I eat."
+
+Based on their responses, two distinct non-customer clusters were identified.
+
+### **Non-Customer Clusters**
+
+#### **Cluster 0: The Careful Planners**
+- **Planner**: This group shows a relatively high agreement with the statement "I tend to plan things very carefully." They are methodical and deliberate in their decision-making, especially when it comes to spending and eating habits.
+- **Spender**: This cluster shows a strong tendency to agree with having trouble controlling their spending, which is a key characteristic. Despite their careful planning, they may struggle with managing their spending impulses.
+- **Local**: There is moderate agreement with the importance of purchasing locally made products. They value supporting local businesses, but it’s not the most significant factor in their decision-making.
+- **Healthy**: This group shows moderate concern for health benefits, indicating that while health is a consideration, it is not their primary focus.
+
+#### **Cluster 1: The Cautious Spenders**
+- **Planner**: This cluster shows less agreement with careful planning, indicating that they are less inclined to plan meticulously.
+- **Spender**: This group exhibits a lower tendency to have trouble controlling their spending, as indicated by a lower score on the spender scale. They are more cautious and likely to keep their spending in check.
+- **Local**: Similar to Cluster 0, they show moderate agreement with the importance of local products. Supporting local businesses is somewhat important but not a defining characteristic.
+- **Healthy**: They display similar concern for health as Cluster 0, with moderate agreement on the importance of health benefits in their eating habits.
+
+### **Targeted Marketing Strategies to Attract Non-Customers**
+
+#### **Cluster 0: The Careful Planners**
+**Profile Summary**:
+- They are careful planners but struggle with controlling their spending. They value local products and health benefits but are not highly focused on either.
+
+**Marketing Strategy**:
+- **Value-Driven Promotions**: Emphasize value for money. Since this group struggles with spending control, offer promotions that make dining out feel like a smart, financially responsible choice. For example, bundle deals or "buy one, get one free" offers that provide high value for a reasonable price.
+- **Highlight Planning Tools**: Provide options for pre-ordering, meal planning, or even subscription meal plans that align with their planning tendencies. These tools can help them feel in control of their spending.
+- **Local and Health-Conscious Messaging**: Since they moderately value local and healthy options, subtly highlight these aspects in your promotions without making them the central focus. For example, "Enjoy a locally sourced, healthy meal for less!"
+
+**Suggested Campaigns**:
+- **"Smart Savers"**: A campaign that emphasizes cost-effective dining options that don’t compromise on quality or health, appealing to their need to balance careful planning with spending challenges.
+- **"Plan & Save"**: Encourage pre-planning and bulk orders with discounts or incentives, making them feel more in control of their dining expenses.
+
+#### **Cluster 1: The Cautious Spenders**
+**Profile Summary**:
+- This group is less meticulous in planning but exercises caution in spending. They also show moderate concern for local products and health benefits.
+
+**Marketing Strategy**:
+- **Convenience and Quick Rewards**: Since they are less focused on planning, emphasize the convenience and immediacy of your offerings. Flash deals, instant discounts, or rewards for frequent purchases could appeal to their cautious spending habits.
+- **Focus on Simplicity and Accessibility**: Offer simple, straightforward promotions that don’t require much planning. This could include daily specials, quick-service options, or easy-to-redeem coupons.
+- **Subtle Health and Local Messaging**: Similar to Cluster 0, this group will appreciate knowing that their choices are moderately healthy and support local businesses, but these factors should be secondary to the primary messaging around convenience and value.
+
+**Suggested Campaigns**:
+- **"Quick Picks"**: Promote fast, affordable meals that are easy to choose and offer immediate rewards, catering to their need for convenience and control over spending.
+- **"Everyday Deals"**: Highlight consistent, everyday deals that don’t require extensive planning, making it easy for them to dine out without worrying about overspending.
+
+### **Conclusion**
+With the accurate interpretation of the Likert scale data from hierarchical clustering, the revised profiles of non-customers ("Careful Planners" and "Cautious Spenders") provide deeper insights into their behaviors and preferences. By tailoring marketing strategies to address their specific concerns—whether it's controlling spending, the need for convenience, or moderate concern for health and local products—Sticks Kebob Shop can effectively attract these non-customers, converting them into regular patrons.
