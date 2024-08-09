@@ -30,6 +30,7 @@ The analysis primarily uses survey data collected from both customers and non-cu
 Based on the survey data, the typical Sticks Kebob customer can be characterized as follows:
 
 - **Profession**: Predominantly Business Professionals (Profession 7) and Educators (Profession 5).
+- **Gender**: Majority of Sticks Kebob customers are Women.
 - **Household Composition**: Typically from households with one or two children, and generally falls into household types 1 or 2.
 - **Visit Frequency**: Customers visit Sticks Kebob frequently, especially during weekends and after-school hours.
 - **Important Attributes**: The most valued attributes include community involvement, ambiance, and variety. Customers also place significant importance on convenience and staff friendliness.
